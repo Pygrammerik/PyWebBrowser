@@ -24,7 +24,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/PyWebBrowser.git
+git clone https://github.com/Pygrammerik/PyWebBrowser.git
 cd PyWebBrowser
 ```
 
